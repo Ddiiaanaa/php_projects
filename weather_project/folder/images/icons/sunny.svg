@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-763b5737-3168-458b-b164-9e6736abcae7" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" width="68.4066" height="68.4066" viewBox="0 0 68.4066 68.4066">
+  <g id="uuid-1acd75a8-796a-44a3-9e27-f53025564283" data-name="Layer 2">
+    <g>
+      <circle cx="34.2033" cy="34.6223" r="13.0078" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="34.2033" y1="68.4066" x2="34.2033" y2="55.263" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="34.2033" y1="13.9815" x2="34.2033" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="68.4066" y1="34.2033" x2="55.263" y2="34.2033" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="13.9815" y1="34.2033" y2="34.2033" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="58.3886" y1="58.3886" x2="49.0947" y2="49.0947" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="19.9043" y1="19.9043" x2="10.0179" y2="10.0179" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="58.3886" y1="10.0179" x2="49.0947" y2="19.3118" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+      <line x1="19.9043" y1="48.5022" x2="10.0179" y2="58.3886" style="fill: none; stroke: #fff; stroke-miterlimit: 10; stroke-width: 3px;"/>
+    </g>
+  </g>
+</svg>
