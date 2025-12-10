@@ -1,0 +1,2 @@
+Source: https://www.kaggle.com/datasets/kaggle/us-baby-names/?select=NationalNames.csv
+Public Domain (CC0)
